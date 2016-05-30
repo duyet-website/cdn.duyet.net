@@ -1,0 +1,14 @@
+{
+  "name": "cdn.duyetdev.com",
+  "version": "1.0.0",
+  "description": "Resource CDN. https://cdn.duyetdev.com",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "",
+  "license": "MIT",
+  "dependencies": {
+    "react-tag-input": "^3.0.1"
+  }
+}
