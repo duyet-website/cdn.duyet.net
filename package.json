@@ -9,6 +9,7 @@
   "author": "",
   "license": "MIT",
   "dependencies": {
+    "react-dnd": "^2.1.4",
     "react-tag-input": "^3.0.1"
   }
 }

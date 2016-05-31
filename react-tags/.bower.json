@@ -1,0 +1,14 @@
+{
+  "name": "react-tags",
+  "homepage": "https://github.com/prakhar1989/react-tags",
+  "version": "3.0.1",
+  "_release": "3.0.1",
+  "_resolution": {
+    "type": "version",
+    "tag": "v3.0.1",
+    "commit": "2e8ec719cb5eca817ff79667b62feb0b867a4bbd"
+  },
+  "_source": "https://github.com/prakhar1989/react-tags.git",
+  "_target": "*",
+  "_originalSource": "https://github.com/prakhar1989/react-tags.git"
+}

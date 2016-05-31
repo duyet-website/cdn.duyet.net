@@ -1,0 +1,14 @@
+{
+  "name": "react-dnd",
+  "homepage": "https://github.com/gaearon/react-dnd",
+  "version": "2.1.4",
+  "_release": "2.1.4",
+  "_resolution": {
+    "type": "version",
+    "tag": "v2.1.4",
+    "commit": "48a8d92ec401c8b0d65f34d9a5582f60ffc5dc6e"
+  },
+  "_source": "https://github.com/gaearon/react-dnd.git",
+  "_target": "*",
+  "_originalSource": "https://github.com/gaearon/react-dnd.git"
+}
