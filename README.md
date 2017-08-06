@@ -1,10 +1,10 @@
-# cdn.duyetdev.com
+# cdn.duyet.net
 Resource CDN.
 
 # Usage
 
 ```
-https://cdn.duyetdev.com/recent-posts.js
+https://cdn.duyet.net/recent-posts.js
 ```
 
 # Licence
